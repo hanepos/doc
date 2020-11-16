@@ -3,16 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-技統本塾（CNA）作業メモ
+作業メモ
 =====================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 2
    :caption: Contents:
+   :numbered:
 
-
-   work_memo/index
-   work_memo/mynavi_sample_msa/spring-security
+    work_memo
 
 
 
