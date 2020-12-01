@@ -7,12 +7,12 @@
 =====================================
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
    :caption: Contents:
 
 
    work_memo/index
-   work_memo/mynavi_sample_msa/spring-security
+   work_memo/mynavi_sample_msa/sample-msa
 
 
 
